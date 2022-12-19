@@ -1,0 +1,4 @@
+java.lang.Object =\
+com.sting.learn.auto.configure.Three.TestConfiguration,\
+com.sting.learn.auto.configure.Four.ConditionalConfiguration,\
+com.sting.learn.auto.configure.Five.PropertyConditionalConfiguration
